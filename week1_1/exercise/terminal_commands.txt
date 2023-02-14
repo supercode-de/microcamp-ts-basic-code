@@ -1,0 +1,5 @@
+npm install typescript --save-dev
+
+tsc uebung1.ts
+
+node uebung1.js
