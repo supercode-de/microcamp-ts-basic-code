@@ -1,7 +1,7 @@
 function greetEveryone(greeting: number, participants: string[]): boolean {
   let message = "";
   participants.forEach((participant) => {
-    message += greeting + participant + "\n";
+    message += greeting + " " + participant + "\n";
   });
   return message;
 }
