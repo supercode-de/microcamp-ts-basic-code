@@ -1,4 +1,4 @@
-npm install typescript --save-dev
+npm install -g typescript
 
 tsc uebung1.ts
 
