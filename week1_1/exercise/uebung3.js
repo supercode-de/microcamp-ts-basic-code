@@ -18,3 +18,5 @@ console.log(greetEveryone("Hi", participants));
 participants = removeFromParticipants("Marzio", participants);
 
 console.log(greetEveryone("Hi", participants));
+
+export {};
