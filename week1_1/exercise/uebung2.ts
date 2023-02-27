@@ -11,3 +11,5 @@ let welcomeText: string = "Willkommen im TypeScript-Kurs";
 let participants: number[] = ["Lars", "Sophie", "Ahmed", "Marzio", "Brigitte"];
 
 console.log(greetEveryone(welcomeText, participants));
+
+export {};
