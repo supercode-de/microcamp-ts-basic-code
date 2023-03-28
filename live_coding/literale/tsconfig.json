@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["es2017", "dom"],
+    "sourceMap": true,
+    "isolatedModules": true,
+    "module": "CommonJS",
+    "types": ["node"]
+  }
+}
